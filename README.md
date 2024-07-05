@@ -1,7 +1,6 @@
 <div align="center">
 <img src="docs/dev/assets/openvino-logo-purple-black.svg" width="400px">
-## test text
-## 2nd branch difference
+## TEST HEADER
 [![PyPI Status](https://badge.fury.io/py/openvino.svg)](https://badge.fury.io/py/openvino)
 [![Anaconda Status](https://anaconda.org/conda-forge/openvino/badges/version.svg)](https://anaconda.org/conda-forge/openvino)
 [![brew Status](https://img.shields.io/homebrew/v/openvino)](https://formulae.brew.sh/formula/openvino)
